@@ -68,7 +68,7 @@ public:
 		cout << endl;
 	}
 	
-};
+};		
 
 Stack obj;
 
